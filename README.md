@@ -86,3 +86,14 @@ Third-party software/service, all rights belong to the original authors and trad
 <sub>Third-party software/service, all rights belong to the original authors. Unofficial listing for HSI Donesafe.</sub>
 
 </div>
+
+
+## More links
+
+- 🌐 **[Visit HSI Donesafe on SOFTGIT](https://softgit.pro/p/hsi-donesafe)** — the full listing.
+- 📄 **[HSI Donesafe web page](https://superkiliberate.github.io/hsi-donesafe-download/)** — standalone info page.
+- 🗂️ [More Security software](https://softgit.pro/category/security)
+- 🏠 [SOFTGIT home](https://softgit.pro) · [All apps](https://softgit.pro/apps)
+- 🔒 [Verify a download (SHA-256)](https://softgit.pro/security)
+
+> Unofficial listing for HSI Donesafe. Third-party software; all rights belong to the original authors.
